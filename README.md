@@ -16,7 +16,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/hasansujon786/hasansujon786/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -58,15 +58,15 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasansujon786&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasansujon786&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasansujon786&hide_border=true" />
 </details>
 
 <!-- <details> -->
@@ -86,35 +86,35 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <!--     </thead> -->
 <!--     <tbody> -->
 <!--       <tr> -->
-<!-- 	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td> -->
-<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td> -->
-<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td> -->
-<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td> -->
+<!-- 	      <td><a href="https://github.com/hasansujon786/Gitwar"><b>🚀 Gitwar</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasansujon786/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasansujon786/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasansujon786/Gitwar?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hasansujon786/Gitwar?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasansujon786/Gitwar?style=flat-square"/></td> -->
 <!--       </tr> -->
 <!--       <tr> -->
-<!-- 	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td> -->
-<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td> -->
-<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td> -->
-<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td> -->
+<!-- 	      <td><a href="https://github.com/hasansujon786/TradeByte"><b>💸 TradeByte</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasansujon786/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasansujon786/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasansujon786/TradeByte?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hasansujon786/TradeByte?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasansujon786/TradeByte?label=javascript&style=flat-square"/></td> -->
 <!--       </tr> -->
 <!--       <tr> -->
-<!-- 	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td> -->
-<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td> -->
-<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td> -->
-<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> --> 
+<!-- 	      <td><a href="https://github.com/hasansujon786/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasansujon786/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasansujon786/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasansujon786/TheNodeCourse?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hasansujon786/TheNodeCourse?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasansujon786/TheNodeCourse?style=flat-square"/></td> --> 
 <!--       </tr> -->
 <!--       <tr> -->
-<!-- 	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td> -->
-<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td> -->
-<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td> -->
-<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td> -->
+<!-- 	      <td><a href="https://github.com/hasansujon786/hasansujon786"><b>🤓 hasansujon786</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasansujon786/hasansujon786?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasansujon786/hasansujon786?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasansujon786/hasansujon786?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hasansujon786/hasansujon786?style=flat-square"/></td> -->
 <!--         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> --> 
 <!--       </tr> -->
 <!--     </tbody> -->
