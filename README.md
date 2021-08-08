@@ -4,15 +4,15 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hasansujon786.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hasansujon786)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hasan.mahmud786/)
-%%[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/00)%%
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/00) -->
 
 ### Glad to see you here! &nbsp; [Visit my website](https://github.com/hasansujon786/)
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.  I'm currently into Web and Mobile application Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-%%Joined Github **2** years ago.
+<!-- Joined Github **2** years ago. -->
 
-Since then I pushed **1755**+ commits, opened **223**+ issues, submitted **241**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories.%%
+<!-- Since then I pushed **1755**+ commits, opened **223**+ issues, submitted **241**+ pull requests, created **20**+ gists and contributed to **10**+ public repositories. -->
 
 
 
@@ -26,14 +26,14 @@ Since then I pushed **1755**+ commits, opened **223**+ issues, submitted **241**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hasansujon786).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: hasansujon786@gmail.com.
-%%- 📝 &nbsp; Checkout my [Resume](https://github.com/hasansujon786/hasansujon786/blob/master/resume.pdf).%%
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/hasansujon786/hasansujon786/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🥊️ &nbsp; Vim all the way.
-%%- 📰 &nbsp; Reading & writing tech blogs whenever possible.%%
-- 🚲️ &nbsp; Cycling & long rides.
+<!-- - 📰 &nbsp; Reading & writing tech blogs whenever possible. -->
+- 🚲️ &nbsp; Cycling & long rides with friends.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
@@ -69,70 +69,70 @@ Since then I pushed **1755**+ commits, opened **223**+ issues, submitted **241**
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+<!-- <details> -->
+<!--   <summary><b>🧑‍🚀 Open Source Projects</b></summary> -->
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
+<!--   <br /> -->
+<!--   <table> -->
+<!--     <thead align="center"> -->
+<!--       <tr border: none;> -->
+<!--         <td><b>💻 Projects</b></td> -->
+<!--         <td><b>🌟 Stars</b></td> -->
+<!--         <td><b>🍴 Forks</b></td> -->
+<!--         <td><b>🐛 Issues</b></td> -->
+<!--         <td><b>🔔 Pull Requests</b></td> -->
+<!--         <td><b>👨‍💻 Language</b></td> -->
+<!--       </tr> -->
+<!--     </thead> -->
+<!--     <tbody> -->
+<!--       <tr> -->
+<!-- 	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td> -->
+<!--       </tr> -->
+<!--       <tr> -->
+<!-- 	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td> -->
+<!--       </tr> -->
+<!--       <tr> -->
+<!-- 	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> --> 
+<!--       </tr> -->
+<!--       <tr> -->
+<!-- 	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td> -->
+<!--         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td> -->
+<!--         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td> -->
+<!--         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td> -->
+<!--         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> --> 
+<!--       </tr> -->
+<!--     </tbody> -->
+<!--   </table> -->
+<!--   <br /> -->
+<!-- </details> -->
  
-<details>	
+<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   <ul>
   <li><b>OS:</b> Elementary OS 5.1</li>
   <li><b>Browser: </b> Brave Web Browser</li>
   <li><b>Terminal: </b> Alacritty + Bash</li>
-  <li><b>Code Editor:</b> Vim/Neovim - The best editor out there.</li>
+  <li><b>Code Editor:</b> Vim - The best editor out there.</li>
   <li><b>To Stay Updated:</b> Dev.to, Medium, Reddit and Twitter.</li>
   <br />
-  ⚛️ Checkout My Neovim Configrations <a href="https://github.com/hasansujon786/dotfiles">Here</a>.
+  ⚛️ Checkout My Vim Configrations <a href="https://github.com/hasansujon786/dotfiles">Here</a>.
   </ul>	
 </details>
 
