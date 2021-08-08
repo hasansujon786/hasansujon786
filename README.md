@@ -32,7 +32,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🥊️ &nbsp; Vim all the way.
-<!-- - 📰 &nbsp; Reading & writing tech blogs whenever possible. -->
+- 📰 &nbsp; Reading tech blogs & Reddit.
 - 🚲️ &nbsp; Cycling & long rides with friends.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
