@@ -40,7 +40,6 @@ Always curious, always learning, the adventure never ends!
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" title="HTML5" /></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" title="CSS3" /></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
-<code><img height="27" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma" title="Figma" /></code>
 
 ---
 
