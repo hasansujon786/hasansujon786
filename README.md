@@ -5,8 +5,10 @@
 
 <p>
   <img width="40" align="left" alt="Hi" src="https://raw.githubusercontent.com/hasansujon786/hasansujon786/master/gifs/Hi.gif" />
-  <span style="font-size: 1.5em; font-weight: bold; padding-left: 10px;">Hey, I'm <a href="https://github.com/hasansujon786/">Hasan Mahmud</a></span>
+  <span style="font-size: 30px; font-weight: bold; padding-left: 10px;">Hey, I'm <a href="https://github.com/hasansujon786/">Hasan Mahmud</a></span>
 </p>
+
+---
 
 <div style="margin: 0px 0 10px;">
 
