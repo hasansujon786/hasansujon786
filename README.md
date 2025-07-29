@@ -1,14 +1,4 @@
-<!-- <img width="40" alt="Hi" src="https://raw.githubusercontent.com/hasansujon786/hasansujon786/master/gifs/Hi.gif" style="vertical-align: middle;" /> -->
-<!-- <span style="font-size: 2em; font-weight: bold; margin-left: 10px; vertical-align: middle;"> -->
-<!--   Hey, I'm <a href="https://github.com/hasansujon786/">Hasan Mahmud</a> -->
-<!-- </span> -->
-
-<p>
-  <img width="40" align="left" alt="Hi" src="https://raw.githubusercontent.com/hasansujon786/hasansujon786/master/gifs/Hi.gif" />
-  <span style="font-size: 30px; font-weight: bold; padding-left: 10px;">Hey, I'm <a href="https://github.com/hasansujon786/">Hasan Mahmud</a></span>
-</p>
-
----
+## Hey, I'm <a href="https://github.com/hasansujon786/">Hasan Mahmud</a>
 
 <div style="margin: 0px 0 10px;">
 
