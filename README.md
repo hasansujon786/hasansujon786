@@ -16,10 +16,10 @@ Always curious, always learning, the adventure never ends!
 
 ### ✨ What I'm Into
 
-- 🔧 Currently working with React Native & Flutter to build cross-platform apps
+- 🔧 Currently working with **React Native** & **Flutter** to build cross-platform apps
 - 🎨 Passionate about micro animations and delivering delightful user experiences
 - 🖥️ I enjoy building CLI and TUI application
-- 🎮 Fun Fact: I like to play the Stardew Valley!
+- 🎮 Fun Fact: I like to play Stardew Valley!
 
 ---
 
